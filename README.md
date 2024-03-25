@@ -1,16 +1,13 @@
-### Hello I am Shahid Shaikh 👋
+<h1 align="center">Hi 👋, I'm Shahid Shaikh</h1>
+<h3 align="center">UI/UX Designer & Web Developer from Pune</h3>
 
-<!--
-**theshahidshaikh07/theshahidshaikh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Espaacio (Cyber Security and Networking website)**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Known me more at [theshahidshaikh.netlify.app](https://theshahidshaikh.netlify.app)
+
+- 📫 How to reach me **theshahidshaikh7@gmail.com**
+
+
+
