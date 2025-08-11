@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahid Shaikh</h1>
-<h3 align="center">UI/UX Designer & Web Developer from Pune</h3>
+<h3 align="center">Software Developer from Pune</h3>
 
 - 🔭 I’m currently working on **Espaacio (Cyber Security and Networking website)**
 
