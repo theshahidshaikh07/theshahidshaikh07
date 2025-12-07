@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahid Shaikh</h1>
-<h3 align="center">Software Developer from Pune</h3>
+<h3 align="center">Product Manager & Software Developer from Pune</h3>
 
 - 👨‍💻 I'm a final-year Computer Science student passionate about building innovative software solutions.
 
