@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Zoodo (AI and Blockchain Powered veterinary platform )**
 
-- 👨‍💻 Known me more at [shahidshaikh.dev](https://shahidshaikh.dev)
+- 👨‍💻 Known me more at [shahidshaikh.me](https://shahidshaikh.me)
 
-- 📫 How to reach me **theshahidshaikh7@gmail.com**
+- 📫 How to reach me **shahid.shaikh.ce@gmail.com**
 
 
 
